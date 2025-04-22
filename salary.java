@@ -6,5 +6,7 @@ System.out.println("hai");
 }
 private void employee() {
 System.out.println("hi");
+System.out.println("hello");
 }
+
 }
