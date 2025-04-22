@@ -4,8 +4,8 @@ public class salary {
 private void arun() {
 System.out.println("hai");
 }
-private void employee() {
-System.out.println("hi");
+private void fruit() {
+System.out.println("hiiii");
 System.out.println("hello");
 }
 
